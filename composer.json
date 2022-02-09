@@ -1,10 +1,11 @@
 {
     "name": "xaviranik/wp-dd",
-    "description": "An implementation of \"dump and die\" (dd) and debug helper functions for wordpress",
+    "description": "An implementation of \"dump and die\" (dd) and debug helper functions for WordPress",
     "type": "composer-plugin",
     "require": {
 		"php": "^7.3|^8.0", 
-		"symfony/var-dumper": "^5.4"
+		"symfony/var-dumper": "^5.4",
+        "phpunit/phpunit": "^9.5"
     },
     "license": "MIT",
     "autoload": {
