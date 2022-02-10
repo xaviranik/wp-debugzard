@@ -1,5 +1,6 @@
 {
     "name": "xaviranik/wp-debugzard",
+  	"version": "0.1.0",
     "description": "An implementation of \"dump and die\" (dd) and debug helper functions for WordPress",
     "type": "composer-package",
     "require": {
